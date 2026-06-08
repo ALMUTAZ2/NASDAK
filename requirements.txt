@@ -3,3 +3,6 @@ pandas
 pandas_ta
 requests
 numpy
+pyTelegramBotAPI
+flask
+requests
