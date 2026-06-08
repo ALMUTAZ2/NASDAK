@@ -1,10 +1,6 @@
 yfinance
 pandas
-pandas_ta
-requests
 numpy
-pyTelegramBotAPI
-flask
 requests
-numba
-llvmlite
+python-telegram-bot
+flask
