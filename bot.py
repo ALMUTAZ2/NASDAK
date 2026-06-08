@@ -10,7 +10,7 @@ from datetime import datetime
 # Telegram Config
 # =========================
 BOT_TOKEN = "8746602597:AAECtu4m4jx9WVnYjeewdJbvcJiMTYk8xM0"
-CHAT_ID = "36940626"
+CHAT_ID = "434014948"
 
 def send(msg):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
