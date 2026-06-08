@@ -1,6 +1,7 @@
 services:
   - type: web
     name: nasdak-bot
+    plan: free
     runtime: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
