@@ -1,11 +1,9 @@
-services:
-  - type: web
+services:- type: web
     name: nasdak-bot
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    envVars:
-      - key: PYTHON_VERSION
+    envVars:- key: PYTHON_VERSION
         value: 3.10.0
       - key: PORT
