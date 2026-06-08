@@ -6,3 +6,5 @@ numpy
 pyTelegramBotAPI
 flask
 requests
+numba
+llvmlite
